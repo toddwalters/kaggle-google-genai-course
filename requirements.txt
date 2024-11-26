@@ -1,0 +1,82 @@
+# Development Environment
+jupyter
+jupyterlab
+ipywidgets
+notebook
+
+# Deep Learning Frameworks
+tensorflow
+torch
+torchvision
+pytorch-lightning
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+h2o
+optuna
+shap
+eli5
+
+# Data Processing & Analysis
+pandas
+numpy
+scipy
+statsmodels
+featuretools
+ydata-profiling
+prophet
+
+# Deep Learning Tools
+transformers
+accelerate
+datasets
+
+# Visualization
+plotly
+seaborn
+
+# NLP
+spacy
+gensim
+nltk
+
+# Computer Vision & Image Processing
+albumentations
+fastai
+opencv-python
+Pillow
+scikit-image
+
+# Web & API Development
+fastapi
+uvicorn
+flask
+
+# Big Data & Cloud
+apache-beam
+bigframes
+aiobotocore
+
+# Google Cloud & AI Platform
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-aiplatform
+google-cloud-translate
+google-cloud-vision
+google-cloud-language
+google-cloud-pubsub
+google-cloud-monitoring
+google-cloud-artifact-registry
+google-cloud-iam
+google-auth
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+google-generativeai
+
+# Development
+cloudpathlib
+-e git+https://github.com/SohierDane/BigQuery_Helper@8615a7f6c1663e7f2d48aa2b32c2dbcb600a440f#egg=bq_helper
