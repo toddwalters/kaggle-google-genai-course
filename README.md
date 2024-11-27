@@ -2,7 +2,7 @@
 
 ## Description
 
-A 5-day online course on November 11 - 15 2024 designed to help you deeply understand some of the fundamental technologies and techniques behind Generative AI. Created by a team of Google’s ML researchers and engineers, this program includes both conceptual deep dives and hands-on coding examples so you can tackle new Gen AI projects with confidence.
+A [5-day online course on November 11th - 15th 2024, designed to help you deeply understand some of the fundamental technologies](https://www.kaggle.com/discussions/general/545082) and techniques behind Generative AI. Created by a team of Google’s ML researchers and engineers, this program includes both conceptual deep dives and hands-on coding examples so you can tackle new Gen AI projects with confidence.  
 
 ## Setup Instructions
 

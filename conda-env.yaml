@@ -1,6 +1,7 @@
 name: kaggle-gcloud-genai
 channels:
   - conda-forge
+  - h20ai
   - defaults
 dependencies:
   - python=3.10.14
@@ -34,6 +35,7 @@ dependencies:
   - uvicorn
   - flask
   - apache-beam
+  - python-dotenv
   - pip
   - pip:
     - eli5
@@ -64,4 +66,3 @@ dependencies:
     - google-auth-httplib2
     - google-generativeai
     - cloudpathlib
-    - -e git+https://github.com/SohierDane/BigQuery_Helper@8615a7f6c1663e7f2d48aa2b32c2dbcb600a440f#egg=bq_helper
